@@ -4,7 +4,7 @@
 The Cancer Mortality Dashboard is an interactive visualization tool designed to provide in-depth insights into cancer death rates across different demographics, cancer types, and time periods in the United States. Utilizing data analytics and graphical representations, this dashboard aims to shed light on trends and patterns in cancer mortality, supporting research, awareness, and decision-making in oncology.<hr>
 
 ### Dashboard Link
-[Cancer Mortality Dashboard]([URL](http://127.0.0.1:8050/))
+[Cancer Mortality Dashboard](http://127.0.0.1:8050/)
 
 ### Tools and Technologies
 * Python: Primary programming language used for data analysis.
