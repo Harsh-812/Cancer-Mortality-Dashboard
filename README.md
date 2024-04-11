@@ -16,7 +16,7 @@ The Cancer Mortality Dashboard is an interactive visualization tool designed to 
 <hr>
 
 ### About the Dataset
-The dashboard is powered by cleaned and aggregated data from Data.gov. [Cancer Death Count Dataset]([URL](https://catalog.data.gov/dataset/ah-provisional-cancer-death-counts-by-month-and-year-2020-2021-ab4a5))
+The dashboard is powered by cleaned and aggregated data from Data.gov. [Cancer Death Count Dataset](https://catalog.data.gov/dataset/ah-provisional-cancer-death-counts-by-month-and-year-2020-2021-ab4a5)
 
 <hr>
 
