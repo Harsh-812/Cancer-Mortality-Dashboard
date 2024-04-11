@@ -1,4 +1,4 @@
-# Cancer Mortality Dashboard
+# Malignant Neoplasm (Cancer) Mortality Dashboard
 
 ### Project Overview
 The Cancer Mortality Dashboard is an interactive visualization tool designed to provide in-depth insights into cancer death rates across different demographics, cancer types, and time periods in the United States. Utilizing data analytics and graphical representations, this dashboard aims to shed light on trends and patterns in cancer mortality, supporting research, awareness, and decision-making in oncology.<hr>
